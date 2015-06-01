@@ -1,6 +1,5 @@
-60/ 100
+90/ 100
 Last update Mon May 18 20:17:08 2015 -0700
--10: late
 -----------------------------------------------------
 [1]  Input redirection from an existant file (25)
 -----------------------------------------------------
@@ -19,11 +18,11 @@ celik$.*|.\+| test missing
 -----------------------------------------------------
 [7]  Output redirection and piping (5)
   -5: Does not work!
-celik$ 
+celik$
 -----------------------------------------------------
 [8]  Input redirection, output redirection, and piping (10)
   -10: Does not work!
-celik$ 
+celik$
 -----------------------------------------------------
   Extra 1: <<< (20)
 celik$ extra credit 1 works
@@ -43,3 +42,5 @@ celik$   -5: 1> Does not work!
   -5: 1>> Does not work!
   -5: 2> Does not work!
   -5: 2>> Does not work!
+
+regraded; worked

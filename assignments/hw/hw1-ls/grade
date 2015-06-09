@@ -1,15 +1,4 @@
-20/ 100
-Last update Sat May 2 01:05:39 2015 -0700
+65 / 100
 
-Error checking for syscalls
-
-file: [src/ls.cpp] -5
-
-
-
--25: ls -l does not work
--25: file/folder param does not work
--25: ls -R does not work
-
-
+regraded
 
